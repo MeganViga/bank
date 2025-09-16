@@ -1,6 +1,18 @@
 # Simple Bank Project
 
 > **Note:** For a more detailed, traditional documentation format, please refer to [Notes.md](Notes.md)
+>
+> **Quick Links to Detailed Documentation:**
+> - [Database Schema Design](Notes.md#database-schema-design)
+> - [Setup Instructions](Notes.md#setup-instructions)
+>   - [Golang Setup](Notes.md#golang-setup)
+>   - [VSCode Setup](Notes.md#vscode-setup)
+>   - [Docker Setup](Notes.md#docker-setup)
+>   - [TablePlus Setup](Notes.md#tableplus-setup)
+>   - [Database Migration](Notes.md#database-migration)
+> - [Makefile Commands](Notes.md#makefile)
+> - [Database Access Options](Notes.md#database-access)
+> - [SQLC Setup and Usage](Notes.md#sqlc-setup-and-usage)
 
 ## 📊 Database Schema Design
 
